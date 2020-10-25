@@ -1,7 +1,7 @@
 module.exports = {
   lintOnSave: false,
   pwa: {
-    name: 'JRAIN:BLOG',
+    name: 'INYU:BLOG',
     themeColor: '#8e24aa',
     msTileColor: '#8e24aa',
     appleMobileWebAppCapable: 'yes',

@@ -82,7 +82,7 @@ export default {
       this.keyword = ''
     },
     loginWithGithub () {
-      location.href = 'https://github.com/login/oauth/authorize?client_id=Iv1.371000f912198076&redirect_uri=https://inyuo.github.io'
+      location.href = 'https://github.com/login/oauth/authorize?client_id=7b93d7548b9e7e9e02a1&redirect_uri=https://inyuo.github.io'
     }
   }
 }

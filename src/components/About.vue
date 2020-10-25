@@ -11,7 +11,7 @@
     </section>
 
     <section class="about-right">
-      © 2019 JRAIN LAU
+      © 2021 INYU
     </section>
   </div>
 </template>

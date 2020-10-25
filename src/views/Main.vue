@@ -63,7 +63,7 @@ export default {
     }
   },
   async mounted () {
-    document.title = 'JRAIN:BLOG'
+    document.title = 'INYU:BLOG'
     const { status, message } = await this.getArticlesV4()
     const authCode = location.search.split('code=')[1]
     if (status && !authCode) {
